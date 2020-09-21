@@ -1,0 +1,53 @@
+body{
+    background-image: url(back.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.back{
+    background: white;
+    width: 80%;
+    padding: 45px;
+    margin: 30px auto;
+
+}
+.bar{
+    width: 100%;
+}
+#name{
+    font-size: 300%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#gone{
+    background-color: white;
+}
+h1{
+    color: white;
+}
+.sales{
+    background: white;
+    width: 90%;
+    padding: 10px;
+    margin: 2px auto;
+}
+.line{
+    font-size: 252%;
+
+}
+.buttonn{
+    display: flex;
+justify-content: flex-end;
+padding: 2%;
+}
+.pad{
+    padding: 5%;
+}
+.mar{
+    margin: 5%;
+}
+.totalprice{
+    margin: 25%;
+}
+.prix{
+    font-size: 50px;
+    padding-left: 20%;
+}
